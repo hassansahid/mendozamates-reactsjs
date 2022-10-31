@@ -24,13 +24,13 @@
 
 .cardProductCheckout {
     box-sizing: content-box;
-    background-color: #0048ff1d;
+    background-color: #ebeef3e7;
     margin-left: 1em;
     padding: 1em;
 }
 
 .formUserCheckout {
-    background-color: #0048ff29;
+    background-color: #cdd5ebbd;
     box-sizing: content-box;
 }
 
@@ -39,7 +39,7 @@
     margin: 1em;
     padding: 1em;
     border: #ffc107 solid 3px;
-    background-color: #0048ff1d;
+    background-color: #889aca;
     font-weight: bolder;
 } 
 .cartTotal h4 {

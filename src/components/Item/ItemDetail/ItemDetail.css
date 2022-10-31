@@ -23,7 +23,7 @@
     justify-content: space-between;
 }
 .productDetailHeader .price__data h2 {
-    color: #000000;
+    color: #b1b1b1e1;
     font-size: bolder;
 }
 .productDetailHeader .price h6{
