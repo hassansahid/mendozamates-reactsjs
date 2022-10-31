@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.293a3fef.css",
-    "main.js": "/static/js/main.8f88ede6.js",
-    "static/js/787.861558c1.chunk.js": "/static/js/787.861558c1.chunk.js",
-    "static/media/logo.jpg": "/static/media/logo-mimate.6a3a4c84d9789379aa86.png",
-    "index.html": "/index.html",
-    "main.293a3fef.css.map": "/static/css/main.293a3fef.css.map",
-    "main.8f88ede6.js.map": "/static/js/main.8f88ede6.js.map",
-    "787.861558c1.chunk.js.map": "/static/js/787.861558c1.chunk.js.map"
+    "main.css": "/mendozamates-reactsjs/static/css/main.b67b6344.css",
+    "main.js": "/mendozamates-reactsjs/static/js/main.0ffd524a.js",
+    "static/js/787.861558c1.chunk.js": "/mendozamates-reactsjs/static/js/787.861558c1.chunk.js",
+    "static/media/logo.jpg": "/mendozamates-reactsjs/static/media/logo.9761df38d0a8bc6739a8.jpg",
+    "index.html": "/mendozamates-reactsjs/index.html",
+    "main.b67b6344.css.map": "/mendozamates-reactsjs/static/css/main.b67b6344.css.map",
+    "main.0ffd524a.js.map": "/mendozamates-reactsjs/static/js/main.0ffd524a.js.map",
+    "787.861558c1.chunk.js.map": "/mendozamates-reactsjs/static/js/787.861558c1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.293a3fef.css",
-    "static/js/main.8f88ede6.js"
+    "static/css/main.b67b6344.css",
+    "static/js/main.0ffd524a.js"
   ]
 }
